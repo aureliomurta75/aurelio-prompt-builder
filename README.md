@@ -23,7 +23,7 @@ Plugin que avalia, melhora e constrói prompts para qualquer modelo de linguagem
 
 A resposta vem sempre em duas partes: a análise e o prompt final, em bloco de código, pronto para copiar e colar. Dados que você não informou aparecem como `[CAMPOS ENTRE COLCHETES]`, nunca inventados.
 
-## Como instalar
+## Como instalar no Claude
 
 **No Claude (web ou desktop):** abra Customize > Plugins > Add > Add marketplace e informe `aureliomurta75/aurelio-prompt-builder`. O plugin aparece na lista para ser adicionado.
 
@@ -32,6 +32,19 @@ A resposta vem sempre em duas partes: a análise e o prompt final, em bloco de c
 ```
 /plugin install aurelio-prompt-builder --marketplace aureliomurta75/aurelio-prompt-builder
 ```
+
+## Como usar no Gemini
+
+Abra este link com a sua conta Google e adicione a habilidade:
+
+https://gemini.google.com/customize/skills/d/1RwDzpjpqEGkpwrspJBooDwW-2VVlIp0V?usp=sharing
+
+Alternativa: baixe o arquivo [`SKILL.md`](skills/4ur3l10-prompt-builder/SKILL.md) e, em gemini.google.com, vá em Personalizar > Habilidades > Criar > Enviar.
+
+## Como usar no ChatGPT e em outras IAs
+
+- **ChatGPT com o recurso Skills:** baixe o arquivo [`SKILL.md`](skills/4ur3l10-prompt-builder/SKILL.md) e envie em Plugins > Skills > Create > Upload from your computer. O recurso depende do plano da conta.
+- **Qualquer IA, inclusive planos gratuitos:** abra o arquivo [`SKILL.md`](skills/4ur3l10-prompt-builder/SKILL.md), copie todo o conteúdo e cole no início da conversa. Em seguida, envie o prompt que deseja avaliar ou as ideias para construir um novo.
 
 ## Como usar
 

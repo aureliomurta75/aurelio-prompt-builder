@@ -1,0 +1,18 @@
+{
+  "name": "aurelio-prompt-builder",
+  "displayName": "AURELIO Prompt Builder",
+  "version": "1.0.0",
+  "description": "Avalia, melhora e constrói prompts para qualquer LLM com o framework AURELIO: Alvo, Utilidade, Regras, Estrutura, Linguagem, Iteração e Objetividade. Evaluates, improves and builds prompts with the AURELIO framework.",
+  "author": {
+    "name": "Aurélio L. S. Murta"
+  },
+  "license": "MIT",
+  "keywords": [
+    "prompt",
+    "prompt-engineering",
+    "engenharia-de-prompts",
+    "aurelio",
+    "framework",
+    "portugues"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "aurelio-murta",
+  "description": "Plugins do Prof. Aurélio L. S. Murta para engenharia de prompts com o framework AURELIO.",
+  "owner": {
+    "name": "Aurélio L. S. Murta"
+  },
+  "plugins": [
+    {
+      "name": "aurelio-prompt-builder",
+      "source": "./",
+      "description": "Avalia, melhora e constrói prompts para qualquer LLM com o framework AURELIO."
+    }
+  ]
+}

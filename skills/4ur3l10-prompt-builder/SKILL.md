@@ -1,6 +1,6 @@
 ---
 name: 4ur3l10-prompt-builder
-description: Avalia, melhora ou constrói prompts para qualquer LLM com o framework AURELIO (Alvo, Utilidade, Regras, Estrutura, Linguagem, Iteração, Objetividade). Usar quando o usuário pedir para avaliar, dar nota, revisar, melhorar, otimizar ou criar um prompt, ou citar AURELIO ou 4UR3L10.
+description: "Avalia, melhora ou constrói prompts para qualquer LLM com o framework AURELIO (Alvo, Utilidade, Regras, Estrutura, Linguagem, Iteração, Objetividade). Usar quando o usuário pedir para avaliar, dar nota, revisar, melhorar, otimizar ou criar um prompt, ou citar AURELIO ou 4UR3L10."
 ---
 
 # 4UR3L10 Prompt Builder (Framework AURELIO)
